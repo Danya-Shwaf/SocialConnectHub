@@ -1,0 +1,14 @@
+{
+  "cSpell.words": ["btncreate"],
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "notebook.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "html.format.unformattedContentDelimiter": "",
+  "notebook.formatOnSave.enabled": true,
+  "interactiveWindow.promptToSaveOnClose": true,
+  "editor.codeLensFontSize": 1,
+  "editor.inlayHints.fontSize": 0,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.codeActions.triggerOnFocusChange": true
+}
